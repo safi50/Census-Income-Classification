@@ -1,7 +1,5 @@
 # Census Income Data Classification
 
-![Census Data Image](https://upload.wikimedia.org/wikipedia/commons/7/7a/Census_Bureau_Logo.svg)
-
 This project involves building and evaluating machine learning models to predict whether an individual's income exceeds $50,000 per year based on the Census Income dataset. The models used in this project include Decision Trees and Random Forest Classifier.
 
 ## Project Overview
